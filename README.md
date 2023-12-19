@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the source code for an Online Slot Booking System. The system allows users to sign up, book slots, make payments, and manage their account information.
+This repository contains the source code. The system allows users to sign up, book slots, make payments, and manage their account information.
 
 ## Usage Flow
 
